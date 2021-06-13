@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1003957109669",
+    "project_id": "flutter-social-app-631d4",
+    "storage_bucket": "flutter-social-app-631d4.appspot.com"
+  },
+  "client": [
+    {
+      
+      "client_info": {
+        "mobilesdk_app_id": "1:1003957109669:android:9d3070d5630edae4bf9e4c",
+        "android_client_info": {
+          "package_name": "com.example.social_network_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003957109669-rkcrqs646dtvi71m72eqsqloh7a7d19h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqhmD5p3-hrvHDGIXC44ijDld-5IQVDDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003957109669-rkcrqs646dtvi71m72eqsqloh7a7d19h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
