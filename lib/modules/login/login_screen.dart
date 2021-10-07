@@ -32,11 +32,6 @@ class LoginScreen extends StatelessWidget {
                 padding: EdgeInsets.all(5),
               ),
             );
-            // showToast(
-            //   text: "${state.error}",
-            //   state: ToastStates.ERROR,
-            // );
-
           }
           if (state is LoginSuccessStates) {
             CacheHelper.saveData(
@@ -129,9 +124,7 @@ class LoginScreen extends StatelessWidget {
                               upperCase: true,
                               fullWidth: true,
                             ),
-                          SizedBox(
-                            height: 15,
-                          ),
+                          SizedBox(height: 15),
                           Row(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
